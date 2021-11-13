@@ -1,1 +1,2 @@
-# Library-Management-System
+# LibraryManagementSystem
+Library Management System project.
